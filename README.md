@@ -23,3 +23,6 @@ Dans ce troisième laboratoire, nous allons créer une application combinant Spr
 services : Module dédié à la gestion métier.
 web : Application Angular, qui servira d’interface utilisateur.
 Cette approche nous permet d’apprendre à structurer une application complète avec un back-end Spring Boot et un front-end Angular, tout en utilisant Maven pour la gestion des dépendances et du build.
+
+![Description de l'image](lab1_2_jee_m2/captures/img.png)
+
